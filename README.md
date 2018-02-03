@@ -1,4 +1,3 @@
 # EC500C1
-EC500-C1
 Exercises for EC500 C1
 
