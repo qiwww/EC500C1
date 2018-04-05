@@ -1,12 +1,17 @@
 Author: Qi Wang
 
+
 Description: Using Pymongo in Python demonstrate basic functionalities of MongoDB. 
+
 
 Dataset: airport location data(https://gist.github.com/tdreyno/4278655)
 
+
 Explaination: After download MongoDB and Pymongo, I manualy imported airport dataset into MongoDB, named database "airport" and collections "airports".
 
+
 Run Instruction:
+#############################################################################################################################
 # First import data
 mongoimport --db airport --collection airports --drop --file /Users/Sophia_/Desktop/EC500/mongo/airports.json --jsonArray
 
@@ -15,5 +20,8 @@ mongod
 
 # Run airportsDBExercise.py (in another terminal window)
 python airportsDBExercise.py
+##############################################################################################################################
 
+Sample Output:
+AirportsOutput.txt
 
