@@ -13,7 +13,7 @@ mongoimport --db airport --collection airports --drop --file /Users/Sophia_/Desk
 # Open Mongodb server
 mongod
 
-# Run airportDBExercise.py (in another terminal window)
-python airportDBExercise.py
+# Run airportsDBExercise.py (in another terminal window)
+python airportsDBExercise.py
 
 
