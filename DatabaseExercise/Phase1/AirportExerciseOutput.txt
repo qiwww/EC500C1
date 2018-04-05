@@ -1,4 +1,4 @@
-mongo Sophia_$ python AirportExerciseOutput.py
+mongo Sophia_$ python AirportsExerciseOutput.py
 Airport dataset records count: 
 3885
 10 Airports information in the United States: 
