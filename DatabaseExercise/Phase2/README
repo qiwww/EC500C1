@@ -1,0 +1,12 @@
+Author: Qi Wang
+
+To complete the file:
+You need to input Twitter API credentials in API_MongoDB.py file.
+
+Run Instruction:
+on a terminal windown, go into API_MongoDB.py directory, type: python API_MongoDB.py.
+
+Disclaimer:
+Since my version of API exercise has a little bit of problem, I have two versions of codes. Second version is based on Xintong Hao's API exercise.
+Reference: 
+https://github.com/XintongHao/EC500_C1/tree/master/API_exercise
