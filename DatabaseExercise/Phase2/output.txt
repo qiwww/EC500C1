@@ -1,0 +1,64 @@
+{'_id': ObjectId('5ac53247f192bf2f09d0fd77'), 'Author': 'wallpapermag'}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd78'), 'imageInfo': [{'imgage_idx': 1, 'decription': 'restaurant', 'confidence': 0.6899509429931641}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd79'), 'imageInfo': [{'imgage_idx': 2, 'decription': 'metropolitan area', 'confidence': 0.8535047769546509}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd7a'), 'imageInfo': [{'imgage_idx': 3, 'decription': 'graphic design', 'confidence': 0.48571425676345825}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd7b'), 'imageInfo': [{'imgage_idx': 4, 'decription': 'building', 'confidence': 0.8090547323226929}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd7c'), 'imageInfo': [{'imgage_idx': 5, 'decription': 'bicycle handlebar', 'confidence': 0.7625961303710938}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd7d'), 'imageInfo': [{'imgage_idx': 6, 'decription': 'land vehicle', 'confidence': 0.6654285192489624}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd7e'), 'imageInfo': [{'imgage_idx': 7, 'decription': 'art', 'confidence': 0.5132266879081726}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd7f'), 'imageInfo': [{'imgage_idx': 8, 'decription': 'bicycle frame', 'confidence': 0.5939247012138367}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd80'), 'imageInfo': [{'imgage_idx': 9, 'decription': 'architecture', 'confidence': 0.6551492214202881}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd81'), 'imageInfo': [{'imgage_idx': 10, 'decription': 'liquid', 'confidence': 0.786957323551178}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd82'), 'imageInfo': [{'imgage_idx': 11, 'decription': 'ceramic', 'confidence': 0.41531819105148315}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd83'), 'imageInfo': [{'imgage_idx': 12, 'decription': 'night', 'confidence': 0.8329422473907471}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd84'), 'imageInfo': [{'imgage_idx': 13, 'decription': 'coffee cup', 'confidence': 0.42222222685813904}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd85'), 'imageInfo': [{'imgage_idx': 14, 'decription': 'glass bottle', 'confidence': 0.8621562123298645}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd86'), 'imageInfo': [{'imgage_idx': 15, 'decription': 'metropolis', 'confidence': 0.8761818408966064}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd87'), 'imageInfo': [{'imgage_idx': 16, 'decription': 'flower', 'confidence': 0.5783425569534302}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd88'), 'imageInfo': [{'imgage_idx': 17, 'decription': 'city', 'confidence': 0.986943781375885}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd89'), 'imageInfo': [{'imgage_idx': 18, 'decription': 'bicycle', 'confidence': 0.8838695883750916}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd8a'), 'imageInfo': [{'imgage_idx': 19, 'decription': 'paper', 'confidence': 0.6071224212646484}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd8b'), 'imageInfo': [{'imgage_idx': 20, 'decription': 'interior design', 'confidence': 0.40546953678131104}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd8c'), 'imageInfo': [{'imgage_idx': 21, 'decription': 'terrain', 'confidence': 0.4474368691444397}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd8d'), 'imageInfo': [{'imgage_idx': 22, 'decription': 'shelf', 'confidence': 0.5097874402999878}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd8e'), 'imageInfo': [{'imgage_idx': 23, 'decription': 'bicycle part', 'confidence': 0.5885191559791565}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd8f'), 'imageInfo': [{'imgage_idx': 24, 'decription': 'engineering', 'confidence': 0.47390949726104736}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd90'), 'imageInfo': [{'imgage_idx': 25, 'decription': 'cliff', 'confidence': 0.8961151242256165}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd91'), 'imageInfo': [{'imgage_idx': 26, 'decription': 'vodka', 'confidence': 0.43009310960769653}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd92'), 'imageInfo': [{'imgage_idx': 27, 'decription': 'text', 'confidence': 0.4705592691898346}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd93'), 'imageInfo': [{'imgage_idx': 28, 'decription': 'system', 'confidence': 0.44897958636283875}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd94'), 'imageInfo': [{'imgage_idx': 29, 'decription': 'range rover', 'confidence': 0.8447531461715698}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd95'), 'imageInfo': [{'imgage_idx': 30, 'decription': 'car', 'confidence': 0.8633501529693604}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd96'), 'imageInfo': [{'imgage_idx': 31, 'decription': 'skyline', 'confidence': 0.8974167704582214}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd97'), 'imageInfo': [{'imgage_idx': 32, 'decription': 'vehicle', 'confidence': 0.7962530255317688}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd98'), 'imageInfo': [{'imgage_idx': 33, 'decription': 'chair', 'confidence': 0.7548686265945435}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd99'), 'imageInfo': [{'imgage_idx': 34, 'decription': 'door', 'confidence': 0.4349040687084198}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd9a'), 'imageInfo': [{'imgage_idx': 35, 'decription': 'machine', 'confidence': 0.7056280970573425}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd9b'), 'imageInfo': [{'imgage_idx': 36, 'decription': 'sport utility vehicle', 'confidence': 0.6000000238418579}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd9c'), 'imageInfo': [{'imgage_idx': 37, 'decription': 'label', 'confidence': 0.4104156494140625}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd9d'), 'imageInfo': [{'imgage_idx': 38, 'decription': 'liqueur', 'confidence': 0.5702422261238098}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd9e'), 'imageInfo': [{'imgage_idx': 39, 'decription': 'motor vehicle', 'confidence': 0.6420316696166992}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fd9f'), 'imageInfo': [{'imgage_idx': 40, 'decription': 'distilled beverage', 'confidence': 0.6182017922401428}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fda0'), 'imageInfo': [{'imgage_idx': 41, 'decription': 'canyon', 'confidence': 0.5138888955116272}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fda1'), 'imageInfo': [{'imgage_idx': 42, 'decription': 'individual sports', 'confidence': 0.7162709832191467}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fda2'), 'imageInfo': [{'imgage_idx': 43, 'decription': 'science', 'confidence': 0.5265401601791382}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fda3'), 'imageInfo': [{'imgage_idx': 44, 'decription': 'banquet', 'confidence': 0.5218864679336548}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fda4'), 'imageInfo': [{'imgage_idx': 45, 'decription': 'graphics', 'confidence': 0.593714714050293}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fda5'), 'imageInfo': [{'imgage_idx': 46, 'decription': 'urban area', 'confidence': 0.8235993385314941}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fda6'), 'imageInfo': [{'imgage_idx': 47, 'decription': 'dining room', 'confidence': 0.4720464050769806}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fda7'), 'imageInfo': [{'imgage_idx': 48, 'decription': 'drink', 'confidence': 0.8070865869522095}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fda8'), 'imageInfo': [{'imgage_idx': 49, 'decription': 'geology', 'confidence': 0.48021814227104187}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fda9'), 'imageInfo': [{'imgage_idx': 50, 'decription': 'painting', 'confidence': 0.5731953382492065}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fdaa'), 'imageInfo': [{'imgage_idx': 51, 'decription': 'cycling', 'confidence': 0.46620404720306396}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fdab'), 'imageInfo': [{'imgage_idx': 52, 'decription': 'function hall', 'confidence': 0.5040462613105774}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fdac'), 'imageInfo': [{'imgage_idx': 53, 'decription': 'coffee table', 'confidence': 0.5233674049377441}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fdad'), 'imageInfo': [{'imgage_idx': 54, 'decription': 'furniture', 'confidence': 0.795918345451355}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fdae'), 'imageInfo': [{'imgage_idx': 55, 'decription': 'alcoholic beverage', 'confidence': 0.7087721824645996}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fdaf'), 'imageInfo': [{'imgage_idx': 56, 'decription': 'shelving', 'confidence': 0.41460293531417847}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fdb0'), 'imageInfo': [{'imgage_idx': 57, 'decription': 'tower block', 'confidence': 0.4454546570777893}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fdb1'), 'imageInfo': [{'imgage_idx': 58, 'decription': 'cityscape', 'confidence': 0.9906929731369019}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fdb2'), 'imageInfo': [{'imgage_idx': 59, 'decription': 'downtown', 'confidence': 0.9382121562957764}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fdb3'), 'imageInfo': [{'imgage_idx': 60, 'decription': 'logo', 'confidence': 0.4090358018875122}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fdb4'), 'imageInfo': [{'imgage_idx': 61, 'decription': 'table', 'confidence': 0.6260387897491455}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fdb5'), 'imageInfo': [{'imgage_idx': 62, 'decription': 'skyscraper', 'confidence': 0.966891884803772}]}
+{'_id': ObjectId('5ac53270f192bf2f09d0fdb6'), 'imageInfo': [{'imgage_idx': 63, 'decription': 'bottle', 'confidence': 0.9601501226425171}]}
