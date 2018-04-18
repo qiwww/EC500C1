@@ -19,3 +19,16 @@ CREATE TABLE airports(
 	carriers INT
 	
 );
+
+LOAD DATA INFILE  '/$PATH/airports.CSV' INTO TABLE airports;
+
+SELECT * FROM airports WHERE country = 'United States';
+
+SELECT * FROM airports WHERE country = 'United States' GROUP BY city;
+
+SELECT * FROM airports WHERE country = 'United States' AND city = 'Boston';
+
+UPDATE airports SET city = 'Boston_updated' WHERE code = 'BOS';
+
+SELECT * FROM airports WHERE country = 'United States' and city = 'Boston_updated';
+
